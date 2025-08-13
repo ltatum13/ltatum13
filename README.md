@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Laila</h1>
 <h3 align="center">An undergraduate computer science student developing a passion for programming through projects that showcase my interests and growing skill!</h3>
 
-- 🔭 I’m currently working on **KittyEclipse**
+- 🔭 I’m currently working on **KittyEclipse with Women in Tech**
+
+- 🌱 I’m currently learning **Java**
+
+- 👯 I’m looking to collaborate on **future projects**
+
+- 🤝 I’m looking for help with **developing my programming knowledge and skills**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ltatum13](https://github.com/ltatum13)
+
+- 💬 Ask me about **future personal projects weaving my coding experience and fictional series I'm in the process of creating**
+
+- 📫 How to reach me **laila.jtatum@gmail.com**
+
+- ⚡ Fun fact **I'm considering making a series of programs related to the fictional series I'm developing called Dumpster Fire, set in a fictional, Ivy League town in the early 2000s and follows four women navigating identity, belonging, and emotional intimacy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
