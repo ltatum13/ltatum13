@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **laila.jtatum@gmail.com**
 
-- ⚡ Fun fact **I'm considering making a series of programs related to the fictional series I'm developing called Dumpster Fire, set in a fictional, Ivy League town in the early 2000s and follows four women navigating identity, belonging, and emotional intimacy.**
+- ⚡ Fun fact **: I'm considering making a series of programs related to the fictional series I'm developing called Dumpster Fire, set in a fictional, Ivy League town in the early 2000s and follows four women navigating identity, belonging, and emotional intimacy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
