@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Laila</h1>
 <h3 align="center">An undergraduate computer science student developing a passion for programming through projects that showcase my interests and growing skill!</h3>
 
-- 🔭 I’m currently working on **KittyEclipse with Women in Tech at Cal Poly Pomona.**
+- 🔭 I’m currently working on **developing a visual novel and website for No Brainer, a fictional punk rock band.**
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **C, Java, and MIPS Assembly.**
 
 - 👯 I’m looking to collaborate on **future projects.**
 
