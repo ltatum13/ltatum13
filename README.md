@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **future personal projects weaving my coding experience and fictional series I'm in the process of creating.**
 
-- 📫 How to reach me **: laila.jtatum@gmail.com**
+- 📫 How to reach me: laila.jtatum@gmail.com
 
 - ⚡ Fun fact **: I'm considering making a series of programs related to the fictional series I'm developing called Dumpster Fire, set in a fictional, Ivy League town in the early 2000s and follows four women navigating identity, belonging, and emotional intimacy.**
 
